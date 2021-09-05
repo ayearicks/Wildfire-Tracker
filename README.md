@@ -1,3 +1,58 @@
+# Wildfire Tracker built with React and NASA API
+
+This is project was made with help from a React tutorial by Traversy Media. I utilized this project as a way to get comfortable with using an API and React. This was also a good lesson on how to hide an API Key.
+
+
+## Table of contents
+
+- [Wildfire Tracker built with React and NASA API](#wildfire-tracker-built-with-react-and-nasa-api)
+  - [Table of contents](#table-of-contents)
+    - [Result](#result)
+    - [Screenshots](#screenshots)
+    - [Links](#links)
+    - [Built with](#built-with)
+- [Getting Started with Create React App](#getting-started-with-create-react-app)
+  - [Available Scripts](#available-scripts)
+    - [`npm start`](#npm-start)
+    - [`npm test`](#npm-test)
+    - [`npm run build`](#npm-run-build)
+    - [`npm run eject`](#npm-run-eject)
+  - [Author](#author)
+
+
+
+### Result
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size.
+- Click on any fire icon to view detailed information about that specific fire.
+
+
+
+### Screenshots
+
+<img src="public/wildfireScreenshot.png" width="600">
+
+
+
+### Links
+
+- Solution URL: [Github Repo](https://github.com/ayearicks/Wildfire-Tracker)
+- Live Site URL: [Live Site](https://ay-wildfire.netlify.app/)
+
+
+
+### Built with
+
+- Create-React-App
+- Google Maps API
+- NASA EONet API
+- Netlify
+- Visual Studio Code
+- Firefox Developer Edition
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +94,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Author
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Website - [Ashley Yearicks](https://yearicks.dev)
+- Twitter - [@jessarin5](https://www.twitter.com/jessarin5)
